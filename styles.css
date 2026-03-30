@@ -16,24 +16,24 @@ p {
     padding: 2px;
 }
 
-/* Top header */
-#head a:link {
+/* Top headerer */
+#header a:link {
     color: white;
 }
 
-#head a:visited {
+#header a:visited {
     color: #cccccc;
 }
 
-#head a:hover {
+#header a:hover {
     color: #e5e7eb;
 }
 
-#head a:active {
+#header a:active {
     color: #aaaaaa;
 }
 
-#head ul {
+#header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ p {
     align-items: flex-end;
 }
 
-#head ul li a {
+#header ul li a {
     display: block;
     color: white;
     padding: 14px 16px;
@@ -51,7 +51,7 @@ p {
     text-align: center;
 }
 
-#head img {
+#header img {
     height: 100px;
     width: 200px;
     display: block;
